@@ -11,6 +11,9 @@ import Header from "./header"
 import NewsContent from "./NewsContent"
 import { useLocation } from "@reach/router"
 
+const isBrowser = typeof window !== "undefined"
+const location = isBrowser ? useLocation() : { pathname: "" }
+const isHomepage = isBrowser && location.pathname === "/"
 
 
 type LayoutProps = { children: React.ReactNode; className?: string }
