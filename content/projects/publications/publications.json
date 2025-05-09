@@ -1,0 +1,202 @@
+[
+  {
+    "authors": "Sera Lee*, Dae R. Jeong*, Junyoung Choi, Jaeheon Kwak, Seoyun Son, <b><u>Jean Y. Song</b></u>, and Insik Shin.",
+    "url": "",
+    "title": "Serenus: Alleviating Low-Battery Anxiety Through Real-time Accurate and User-Friendly Energy Consumption Prediction of Mobile Applications.",
+    "publisher": "In Proceedings of The ACM Symposium on User Interface Software and Technology (UIST 2024). (* Equal contribution)",
+    "year": "2024",
+    "type": "archival"
+  },
+  {
+    "authors": "<b><u>Dokyun Lee, Sangeun Seo, Chanwoo Park</b></u>, Sunjun Kim, Buru Chang, and <b><u>Jean Y. Song</b></u>.",
+    "url": "/publications/DIS2024_Intervention_techniques.pdf",
+    "title": "Exploring Intervention Techniques to Alleviate Negative Emotions during Video Content Moderation Tasks as a Worker-centered Task Design.",
+    "publisher": "In Proceedings of the ACM Conference on Designing Interactive Systems (DIS 2024).",
+    "year": "2024",
+    "type": "archival"
+  },
+  {
+    "authors": "<b><u>Yeonsun Yang, Ahyeon Shin, Nayoung Kim, Huidam Woo</b></u>, John Joon Young Chung, and <b><u>Jean Y. Song</b></u>.",
+    "url": "/publications/CHI2024_FindtheBot.pdf",
+    "title": "Find the Bot!: Gamifying Facial Emotion Recognition for Both Human Training and Machine Learning Data Collection.",
+    "publisher": "In Proceedings of the ACM/SIGCHI Conference on Human Factors in Computing Systems (CHI 2024).",
+    "year": "2024",
+    "type": "archival"
+  },
+  {
+    "authors": "Sunjae Lee*, Minwoo Jeong*, Daye Song, Junyoung Choi, Seoyun Son, <b><u>Jean Y. Song†</b></u>, Insik Shin†.",
+    "url": "http://cps.kaist.ac.kr/research/fluid-iot/24_chi_fluidiot.pdf",
+    "title": "FLUID-IoT : Flexible and Granular Access Control in Shared IoT Environments via-UI-Level Control Distribution.",
+    "publisher": "In Proceedings of the ACM/SIGCHI Conference on Human Factors in Computing Systems (CHI 2024). (* Equal contribution, †Co-corresponding authors)",
+    "year": "2024",
+    "type": "archival"
+  },
+  {
+    "authors": "Dongyoon Han*, Junsuk Choe*, Seonghyeok Chun, John Chung, Minsuk Chang, Sangdoo Yun, <b><u>Jean Y. Song</b></u>, Seong Joon Oh.",
+    "url": "https://arxiv.org/abs/2303.17595",
+    "title": "Neglected Free Lunch - Learning Image Classifiers Using Annotation Byproducts.",
+    "publisher": "In Proceedings of the International Conference on Computer Vision (ICCV 2023). (* Equal contribution)",
+    "year": "2023",
+    "type": "archival"
+  },
+  {
+    "authors": "<b><u>Jean Y. Song</b></u>*, Sangwook Lee*, Jisoo Lee, Mina Kim, and Juho Kim.",
+    "url": "/publications/CHI2023_ModSandbox.pdf",
+    "title": "ModSandbox: Facilitating Online Community Moderation Through Error Prediction and Improvement of Automated Rules.",
+    "publisher": "In Proceedings of the ACM/SIGCHI Conference on Human Factors in Computing Systems (CHI 2023). (* Equal contribution)",
+    "year": "2023",
+    "type": "archival"
+  },
+  {
+    "authors": "Seoyun Son, Junyoung Choi, Sunjae Lee, <b><u>Jean Y. Song</b></u>, and Insik Shin.",
+    "url": "/publications/CHI2023_OnlineMeeting.pdf",
+    "title": "It is Okay to be Distracted: How Real-time Transcriptions Facilitate Online Meeting with Distraction.",
+    "publisher": "In Proceedings of the ACM/SIGCHI Conference on Human Factors in Computing Systems (CHI 2023).",
+    "year": "2023",
+    "type": "archival"
+  },
+  {
+    "authors": "Sunjae Lee, Hoyoung Kim, Sijung Kim, Sangwook Lee, Hyosu Kim, <b><u>Jean Y. Song</b></u>, Steven Y. Ko, Sangeun Oh, and Insik Shin.",
+    "url": "/publications/mobicom22-a-mash.pdf",
+    "title": "A-Mash: Providing Single-app Illusion for Multi-app Use through User-centric UI Mashup.",
+    "publisher": "In Proceedings of the International Conference On Mobile Computing And Networking (MobiCom 2022).",
+    "year": "2022",
+    "type": "archival"
+  },
+  {
+    "authors": "Yoonjoo Lee, John Joon Young Chung, Taesoo Kim, <b><u>Jean Y. Song</b></u>, and Juho Kim.",
+    "url": "/publications/CHI2022_Promptiverse.pdf",
+    "title": "Promptiverse: Scalable Generation of Scaffolding Prompts through Human-AI Knowledge Graph Annotation.",
+    "publisher": "In Proceedings of the ACM/SIGCHI Conference on Human Factors in Computing Systems (CHI 2022).",
+    "year": "2022",
+    "type": "archival"
+  },
+  {
+    "authors": "Sunjae Lee, Hayeon Lee, Hoyoung Kim, Sangmin Lee, Jeong Woon Choi, Yuseung Lee, Seono Lee, Ahyeon Kim, <b><u>Jean Y. Song</b></u>, Sangeun Oh, Steven Y. Ko, and Insik Shin.",
+    "url": "/publications/mobicom21-fluid-xp.pdf",
+    "title": "FLUID-XP: Flexible User Interface Distribution forCross-Platform Experience.",
+    "publisher": "In Proceedings of the International Conference On Mobile Computing And Networking (MobiCom 2021).",
+    "year": "2021",
+    "type": "archival"
+  },
+  {
+    "authors": "Zhefan Ye, <b><u>Jean Y. Song</b></u>, Zhiqiang Sui, Stephen Hart, Jorge Vilchis, Arbor, Walter S. Lasecki, and Odest C. Jenkins.",
+    "url": "/publications/IUI2021_human-in-the-loop.pdf",
+    "title": "Human-in-the-loop Pose Estimation via Shared Autonomy.",
+    "publisher": "In Proceedings of the ACM International Conference on Intelligent User Interfaces (IUI 2021). <font color='#FFC300'>Best Paper Honorable Mention</font>",
+    "year": "2021",
+    "type": "archival"
+  },
+  {
+    "authors": "Stephan J. Lemmer, <b><u>Jean Y. Song</b></u>, and Jason J. Corso.",
+    "url": "/publications/CHI2021_VOT.pdf",
+    "title": "Crowdsourcing More Effective Initializations for Single-target Trackers Through Automatic Re-querying.",
+    "publisher": "In Proceedings of the ACM/SIGCHI Conference on Human Factors in Computing Systems (CHI 2021).",
+    "year": "2021",
+    "type": "archival"
+  },
+  {
+    "authors": "Yoonjoo Lee, John Joon Young Chung, <b><u>Jean Y. Song</b></u>, Minsuk Chang, and Juho Kim.",
+    "url": "/publications/CHI2021_SWM.pdf",
+    "title": "Personalizing Ambience and Illusionary Presence: How People Use Study with Me Videos to Create Effective Studying Environments.",
+    "publisher": "In Proceedings of the ACM/SIGCHI Conference on Human Factors in Computing Systems (CHI 2021).",
+    "year": "2021",
+    "type": "archival"
+  },
+  {
+    "authors": "<b><u>Jean Y. Song</b></u>, John Joon Young Chung, David F. Fouhey, and Walter S. Lasecki.",
+    "url": "/publications/CReference_CSCW2020.pdf",
+    "title": "C-Reference: Improving 2D to 3D Object Pose Estimation Accuracy via Crowdsourced Joint Object Estimation.",
+    "publisher": "In Proceedings of the ACM International Conference on Computer Supported Cooperative Work and Social Computing (CSCW 2020).",
+    "year": "2020",
+    "type": "archival"
+  },
+  {
+    "authors": "Divya Ramesh, Anthony Z. Liu, Andres J. Echeverria, <b><u>Jean Y. Song</b></u>, Nicholas R. Waytowich, and Walter S. Lasecki.",
+    "url": "/publications/contrast_effect_AAMAS2020.pdf",
+    "title": "Yesterday’s Reward is Today’s Punishment: Contrast Effects in Human Feedback to Reinforcement Learning Agents.",
+    "publisher": "In Proceedings of the International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2020). <font color='#FFC300'>Pragnesh Jay Modi Best Student Paper</font>",
+    "year": "2020",
+    "type": "archival"
+  },
+  {
+    "authors": "Yan Chen, Maulishree Pandey, <b><u>Jean Y. Song</b></u>, Walter S. Lasecki, and Steve Oney.",
+    "url": "/publications/GUITesting_CHI2020.pdf",
+    "title": "Improving Crowd-Supported GUI Testing with Structural Guidance.",
+    "publisher": "In Proceedings of the ACM/SIGCHI Conference on Human Factors in Computing Systems (CHI 2020).",
+    "year": "2020",
+    "type": "archival"
+  },
+  {
+    "authors": "John Joon Young Chung, <b><u>Jean Y. Song</b></u>, Sindhu Kutty, Sungsoo (Ray) Hong, Juho Kim, and Walter S. Lasecki.",
+    "url": "/publications/ManyThoughts_CSCW2019.pdf",
+    "title": "Efficient Elicitation Approaches to Estimate Collective Crowd Answers.",
+    "publisher": "In Proceedings of the ACM International Conference on Computer Supported Cooperative Work and Social Computing (CSCW 2019). <font color='#FFC300'>Best Paper Honorable Mention</font>",
+    "year": "2019",
+    "type": "archival"
+  },
+  {
+    "authors": "<b><u>Jean Y. Song</b></u>, Raymond Fok, Juho Kim, and Walter S. Lasecki.",
+    "url": "https://doi.org/10.1145/3237188",
+    "title": "FourEyes: Leveraging Tool Diversity as a Means to Improve Aggregate Accuracy in Crowdsourcing.",
+    "publisher": "In ACM Transactions on Interactive Intelligent Systems, Volume 19, Issue 1, Article No. 3 (TiiS 2019).",
+    "year": "2019",
+    "type": "archival"
+  },
+  {
+    "authors": "<b><u>Jean Y. Song</b></u>, Stephan J. Lemmer, Michael Xieyang Liu, Shiyan Yan, Juho Kim, Jason J. Corso, and Walter S. Lasecki.",
+    "url": "/publications/popup_IUI2019.pdf",
+    "title": "Popup: Reconstructing 3D Video Using Particle Filtering to Aggregate Crowd Responses.",
+    "publisher": "In Proceedings of the ACM International Conference on Intelligent User Interfaces (IUI 2019).",
+    "year": "2019",
+    "type": "archival"
+  },
+  {
+    "authors": "<b><u>Jean Y. Song</b></u>, Raymond Fok, Alan Lundgard, Fan Yang, Juho Kim, and Walter S. Lasecki.",
+    "url": "/publications/IUI2018_FourEyes.pdf",
+    "title": "Two Tools are Better Than One: Tool Diversity as a Means of Improving Aggregate Crowd Performance.",
+    "publisher": "In Proceedings of the ACM International Conference on Intelligent User Interfaces (IUI 2018). <font color='#FFC300'>Best Student Paper Honorable Mention</font>",
+    "year": "2018",
+    "type": "archival"
+  },
+  {
+    "authors": "<b>Jeongeon Park</b>, Bryan Min, <b>Jean Y. Song</b>, Xiaojuan Ma, and Juho Kim.",
+    "url": "/publications/CHI2024_SenseMakingWS_ChoiceMates.pdf",
+    "title": "How do multiple LLM-powered conversational agents assist sensemaking and decision-making in an unfamiliar domain?",
+    "publisher": "In Proceedings of the ACM/SIGCHI Conference on Human Factors in Computing Systems (CHI 2024).",
+    "year": "2024",
+    "type": "nonarchival"
+  },
+  {
+    "authors": "Hyungyu Shin, Nabila Sindi, Yoonjoo Lee, Jaeryoung Ka, <b>Jean Y. Song</b>, and Juho Kim.",
+    "url": "/publications/SIGCSE2022-poster-XDesign-paper.pdf",
+    "title": "XDesign: Integrating Interface Design into Explainable AI Education.",
+    "publisher": "In Proceedings of the ACM Technical Symposium on Computer Science Education (SIGCSE TS 2022).",
+    "year": "2022",
+    "type": "nonarchival"
+  },
+  {
+    "authors": "Andrew M. Vernier, <b>Jean Y. Song</b>, Edward Sun, Allison Kench, and Walter S. Lasecki.",
+    "url": "/publications/corsica_UIST2019-poster.pdf",
+    "title": "Towards Universal Evaluation of Image Annotation Interfaces.",
+    "publisher": "In Proceedings of the ACM Symposium on User Interface Software and Technology (UIST 2019).",
+    "year": "2019",
+    "type": "nonarchival"
+  },
+  {
+    "authors": "<b>Jean Y. Song</b>, Raymond Fok, Fan Yang, Kyle Wang, Alan Lundgard, and Walter S. Lasecki.",
+    "url": "/publications/GroupSight2017_ToolDiversity.pdf",
+    "title": "Tool Diversity as a Means of Improving Aggregate Crowd Performance on Image Segmentation Tasks.",
+    "publisher": "In HCOMP Workshop on Human Computation for Image and Video Analysis (HCOMP GroupSight 2017).",
+    "year": "2017",
+    "type": "nonarchival"
+  },
+  {
+    "authors": "Sai R. Gouravajhala, <b>Jean Y. Song</b>, Jinyeong Yim, Raymond Fok, Yanda Huang, Fan Yang, Kyle Wang, Yilei An, and Walter S. Lasecki.",
+    "url": "/publications/eureca_ci2017.pdf",
+    "title": "Towards Hybrid Intelligence for Robotics.",
+    "publisher": "In Collective Intelligence Conference (CI 2017).",
+    "year": "2017",
+    "type": "nonarchival"
+  }
+]

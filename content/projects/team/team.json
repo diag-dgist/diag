@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Jean Y. Song",
+    "image": "/team/jean_profile2023.jpeg",
+    "homepage": "https://jyskwon.github.io/",
+    "position": "Assistant Professor"
+  },
+  {
+    "name": "Chanwoo Park",
+    "image": "/team/chanwoo_profile_picture.jpg",
+    "homepage": "https://bcw6622.github.io/",
+    "position": "Integrated Ph.D. Student"
+  },
+  {
+    "name": "Dokyun Lee",
+    "image": "/team/dokyun.jpg",
+    "homepage": "https://dokyunlee.github.io/",
+    "position": "Integrated Ph.D. Student"
+  },
+  {
+    "name": "Yeonsun Yang",
+    "image": "/team/yeonsun_profile_picture.jpg",
+    "homepage": "https://yeonsunyang.com/",
+    "position": "Integrated Ph.D. Student"
+  },
+  {
+    "name": "SangEun Seo",
+    "image": "/team/SangEun_profile_picture.jpg",
+    "homepage": "https://seseo98.github.io/",
+    "position": "M.S. Student"
+  },
+  {
+    "name": "Taehun Kim",
+    "image": "/team/taehun_profile_picture.jpg",
+    "homepage": "https://raflereak.github.io/",
+    "position": "M.S. Student"
+  },
+  {
+    "name": "Haeun Jang",
+    "image": "/team/haeun_profile_picture.jpg",
+    "homepage": "https://jayuhan.github.io/",
+    "position": "M.S. Student"
+  },
+  {
+    "name": "Kimberly Anne Lockrow",
+    "image": "/team/kimberly_profile_picture.jpg",
+    "homepage": "",
+    "position": "M.S. Student"
+  },
+  {
+    "name": "Ahyeon Shin",
+    "image": "/team/ahyeon_profile_picture.jpg",
+    "homepage": "",
+    "position": "Undergraduate Student @DGIST"
+  },
+  {
+    "name": "Anastasia Arkhipenkova",
+    "image": "/team/Anastasia_profile_picture.jpg",
+    "homepage": "",
+    "position": "Undergraduate Student @UIC"
+  },
+  {
+    "name": "Jaeyeong Choi",
+    "image": "/team/jaeyeong_profile_picture.jpg",
+    "homepage": "",
+    "position": "Undergraduate Student @DGIST"
+  },
+  {
+    "name": "Yoojin Jeon",
+    "image": "/team/yoojin_profile_picture.jpg",
+    "homepage": "",
+    "position": "Undergraduate Student @UIC"
+  }
+]

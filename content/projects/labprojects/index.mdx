@@ -1,0 +1,36 @@
+---
+client: "Projects"
+title: "What We've Built, What We're Exploring, What We Imagine"
+slug: "/projects"
+cover: "./projects.png"
+date: "2025-05-07"
+service: "What We're Exploring"
+color: "#3b486e"
+---
+
+import LabProjects from "./LabProjects"
+import projects from "./projects.json"
+
+
+Our research projects include but are not limited to the following list.
+We are open to discuss new project ideas in the topic of Human-Computer Interaction, Human-AI Interaction, Crowdsourcing,
+Social Computing, or any other related domains.
+Please feel free to contact us if you have exciting ideas.
+
+
+<div style={{ display: "flex", flexWrap: "wrap", justifyContent: "space-between" }}>
+  {projects.map((project, index) => (
+    <LabProjects key={index} {...project} />
+  ))}
+</div>
+
+
+<br/><br/><br/>
+
+#### 🗂️ Past Projects
+<br/>
+<img
+  src="/past_projects.png"
+  alt="Past Projects"
+  style={{ width: "100%"}}
+/>

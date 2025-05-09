@@ -1,0 +1,81 @@
+---
+client: "Publications"
+title: ""
+slug: "/publications"
+cover: "./publications.png"
+date: "2025-05-06"
+service: "What We've Discovered"
+color: "#8e9d31"
+---
+
+### Peer-reviewed Conference and Journal Papers
+<br/>
+
+import LabPublications from "./LabPublications"
+import publications from "./publications.json"
+
+{(() => {
+  const paperPubs = publications.filter(pub => pub.type === "archival")
+  const grouped = paperPubs.reduce((acc, pub) => {
+    const year = pub.year || "Unknown"
+    acc[year] = acc[year] || []
+    acc[year].push(pub)
+    return acc
+  }, {})
+
+  return Object.keys(grouped)
+    .sort((a, b) => b - a)
+    .map((year, idx, arr) => (
+      <div key={year} style={{ marginBottom: "2rem" }}>
+        <div
+          style={{
+            display: "flex",
+            flexWrap: "wrap",
+            alignItems: "flex-start",
+            gap: "1rem",
+            flexDirection: "row"
+          }}
+        >
+          <div
+            style={{
+              flexBasis: "100px",
+              fontWeight: "bold",
+              fontSize: "2rem",
+              color: "#ddd",
+              textAlign: "right",
+              paddingTop: "0.2rem",
+              flexShrink: 0,
+              MarginTop: "2rem",
+              alignSelf: "flex-start",
+              textAlign: "left"
+            }}
+          >
+            {year}
+          </div>
+          <div style={{ flex: 1, minWidth: "0" }}>
+            {grouped[year].map((pub, i) => (
+              <LabPublications key={i} {...pub} />
+            ))}
+          </div>
+        </div>
+        {idx < arr.length - 1 && (
+          <hr style={{ marginTop: "2rem", border: "none", borderTop: "0.5px solid #666" }} />
+        )}
+      </div>
+    ))
+})()}
+
+<br/><br/>
+### Workshop, Poster, and Other Publications
+<br/>
+
+<div>
+  {(() => {
+    const workshopPubs = publications.filter(pub => pub.type === "nonarchival")
+
+    return workshopPubs.map((pub, i) => (
+      <LabPublications key={i} {...pub} />
+    ))
+  })()}
+</div>
+<br/>

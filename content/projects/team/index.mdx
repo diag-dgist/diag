@@ -1,0 +1,50 @@
+---
+client: "Team"
+title: "Introducing members of DIAG"
+slug: "/team"
+cover: "./team.png"
+date: "2025-05-08"
+service: "Who We Are"
+color: "#f1803b"
+---
+
+
+import TeamMember from "./TeamMember"
+import team from "./team.json"
+
+## Our Team
+
+<div style={{ display: "flex", flexWrap: "wrap", justifyContent: "space-between" }}>
+  {team.map((member, index) => (
+    <TeamMember key={index} {...member} />
+  ))}
+</div>
+
+
+#### Alumni
+
+- Mincheol Kang, Undergrad Intern (DGIST), Spring 2024 - Summer 2024
+- Jiheon Kang, Undergrad Intern (DGIST), Spring 2024 - Summer 2024
+- Yibin Moon, Undergrad Intern (DGIST), Spring 2024
+- Nayoung Kim, Undergrad Intern (DGIST), Winter 2023 - Spring 2024
+- Jaeyoung Choi, Undergrad Intern (DGIST), Winter 2023 - Spring 2024
+- Suyeon Shin, Undergrad Intern (DGIST), Summer 2023 - Spring 2024
+- Sungmin Ju, Undergrad Intern (DGIST), Summer 2023 - Spring 2024
+- [Jeongeon Park](https://jeongeonpark.com), Researcher, Fall 2023 - Spring 2024
+- Sunoo Kim, Undergrad Intern (DGIST), Winter 2024 - Spring 2024
+- Youngjin Park, Undergrad Intern (DGIST), Winter 2024
+- Dain Kim, Undergrad Intern (DGIST), Winter 2023 - Fall 2023
+- Sihwan Seok, Undergrad Intern (DGIST), Winter 2023 - Fall 2023
+- Subeen Jo, Undergad Intern (DGIST), Winter 2023 - Fall 2023
+- Minseong Kim, Undergrad Intern (DGIST), Spring 2023 - Summer 2023
+- Huidam Woo, Undergrad Intern (DGIST), Spring 2023
+- Chan Lee, Undergrad Intern (DGIST), Spring 2023
+- Ahyeon Shin, Undergrad Intern (DGIST), Winter 2023
+- Sangeun Seo, Undergrad Intern (UNIST), Summer 2022, Winter 2023
+- Chanyu Moon, Undergrad Intern (DGIST), Winter 2023
+- Gunuk Nam, Undergrad Intern (Handong Global University), Winter 2023
+- Nayoung Kim, Undergrad Intern (DGIST), Winter 2022 - Winter 2023
+- Hojin Jin, Undergrad Intern (DGIST), Winter 2022 - Fall 2022
+- Hyeonho Kwon, Undergrad Intern (DGIST), Winter 2022 - Fall 2022
+- Giwon Lee, Undergrad Intern (DGIST), Winter 2022 - Fall 2022
+- Giwa Osaruiyobo Henrietta, Graduate Intern (DGIST), Summer 2022

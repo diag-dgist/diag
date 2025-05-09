@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Facilitating Online Community Moderation using AI Techniques",
+    "description": "Communities on social platforms have a group of users who volunteer to moderate their communities, called online moderators. They respond to the behavior of community members that violate rules and work to improve overall interaction experiences between community members. This project aims to build human-AI interaction tools to support moderators to more easily and transparently moderate their online communities.",
+    "image": "/proj_modsandbox.png"
+  },
+  {
+    "title": "Improving Facial Emotion Recognition for both Human and AI",
+    "description": "This project focuses on enhancing Facial Emotion Recognition(FER) for individuals who struggle with recognizing facial expressions, as well as for current models with low FER performance. To address these challenges, we developed a gamified application called Find the Bot! that re-labels FER datasets and trains individuals with difficulties in recognizing facial emotions simultaneously. Our vision is to improve FER abilities for individuals with weak FER, leading to enhanced relationship quality, social acceptance, and increased social productivity, while also contributing to the development of reliable multi-labeling for facial expression datasts.",
+    "image": "/proj_fergame.png"
+  },
+  {
+    "title": "Reducing Negative Emotions for Crowd Workers Exposed to Disturbing Content",
+    "description": "Often times crowd workers who do content moderation or data annotations are exposed to harmful content in their daily routines. This project explores UI intervention techniques that can prevent crowd workers from getting too much negative emotional impacts when conducting these tasks. Through this study, we aim to find ways to maintain the quality and cost of the crowdsourced work while protecting the emotions and mental health of crowd workers.",
+    "image": "/proj_panas.jpg"
+  }
+]
