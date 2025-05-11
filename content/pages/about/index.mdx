@@ -4,6 +4,9 @@ slug: "/about"
 cover: "./intro-bg-2023.jpeg"
 ---
 
+import { withPrefix } from "gatsby"
+
+
 In Designing Intelligence Augmentation Group (DIAG), we do research on the intersection of [Human-Computer Interaction](https://interactions.acm.org/archive/view/march-april-2013/teaching-and-learning-human-computer-interaction) and [Artificial Intelligence](https://www.csee.umbc.edu/courses/471/papers/turing.pdf). We explore how people and AI can work together in smarter ways. By combining the strengths of human insight and machine intelligence, we create systems that help solve real-world problems from social challenges to complex technologies. Our work blends computer science with social science to design human-AI collaborations that achieve what neither people nor machines could do alone.
 
 DIAG is currently a hybrid lab, with members working remotely or in person from Incheon and Hyunpoong, fostering cross-location collaboration.<br/><br/>
@@ -25,11 +28,11 @@ DIAG is currently a hybrid lab, with members working remotely or in person from 
       marginRight: "1rem"
     }}
   >
-    Our lab name <img src="/diag_logo.png" alt="Logo" style={{ width: "120px", verticalAlign: "middle", marginRight: "4px" }} /> [dī-ˈa-g] draws inspiration from multiple domains. In linear algebra, diagonal elements often carry key structural properties of a matrix, just as our lab brings together key people to tackle critical research topics. In programming, the <strong>`diag`</strong> function extracts these essential components, reflecting our focus on identifying what matters most in human-AI collaborative design. DIAG is also a nod to the University of Michigan's iconic open space at the Central Campus, known for its role as a gathering place for students and intellectual exchange. Likewise, our lab serves as a hub for collaborative, interdisciplinary research on hybrid intelligence systems.
+    Our lab name <img src={withPrefix("/diag_logo.png")} alt="Logo" style={{ width: "120px", verticalAlign: "middle", marginRight: "4px" }} /> [dī-ˈa-g] draws inspiration from multiple domains. In linear algebra, diagonal elements often carry key structural properties of a matrix, just as our lab brings together key people to tackle critical research topics. In programming, the <strong>`diag`</strong> function extracts these essential components, reflecting our focus on identifying what matters most in human-AI collaborative design. DIAG is also a nod to the University of Michigan's iconic open space at the Central Campus, known for its role as a gathering place for students and intellectual exchange. Likewise, our lab serves as a hub for collaborative, interdisciplinary research on hybrid intelligence systems.
   </div>
 
   <img
-    src="/diag_name.png"
+    src={withPrefix("/diag_name.png")}
     alt="Diag Name"
     style={{
       flex: "1 1 300px",
